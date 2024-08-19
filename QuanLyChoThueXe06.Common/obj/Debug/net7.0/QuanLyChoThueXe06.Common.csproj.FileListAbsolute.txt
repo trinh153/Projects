@@ -1,0 +1,14 @@
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\bin\Debug\net7.0\QuanLyChoThueXe06.Common.deps.json
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\bin\Debug\net7.0\QuanLyChoThueXe06.Common.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\bin\Debug\net7.0\QuanLyChoThueXe06.Common.pdb
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.AssemblyInfoInputs.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.AssemblyInfo.cs
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.csproj.CoreCompileInputs.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\refint\QuanLyChoThueXe06.Common.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.pdb
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\ref\QuanLyChoThueXe06.Common.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\bin\Debug\net7.0\QuanLyChoThueXe06.Common.runtimeconfig.json
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.csproj.AssemblyReference.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.Common\obj\Debug\net7.0\QuanLyChoThueXe06.Common.genruntimeconfig.cache

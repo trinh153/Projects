@@ -1,0 +1,17 @@
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\bin\Debug\net7.0\QuanLyChoThueXe06.DAL.deps.json
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\bin\Debug\net7.0\QuanLyChoThueXe06.DAL.runtimeconfig.json
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\bin\Debug\net7.0\QuanLyChoThueXe06.DAL.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\bin\Debug\net7.0\QuanLyChoThueXe06.DAL.pdb
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\bin\Debug\net7.0\QuanLyChoThueXe06.Common.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\bin\Debug\net7.0\QuanLyChoThueXe06.Common.pdb
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.csproj.AssemblyReference.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.AssemblyInfoInputs.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.AssemblyInfo.cs
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.csproj.CoreCompileInputs.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.csproj.CopyComplete
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\refint\QuanLyChoThueXe06.DAL.dll
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.pdb
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\QuanLyChoThueXe06.DAL.genruntimeconfig.cache
+D:\LTCSDL\QuanLyChoThueXe06\QuanLyChoThueXe06.DAL\obj\Debug\net7.0\ref\QuanLyChoThueXe06.DAL.dll
